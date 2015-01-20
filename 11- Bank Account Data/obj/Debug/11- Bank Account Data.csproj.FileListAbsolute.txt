@@ -1,0 +1,5 @@
+D:\proeti\2-HomeWork-Primitive Data Types and Variables\11- Bank Account Data\bin\Debug\11- Bank Account Data.exe.config
+D:\proeti\2-HomeWork-Primitive Data Types and Variables\11- Bank Account Data\bin\Debug\11- Bank Account Data.exe
+D:\proeti\2-HomeWork-Primitive Data Types and Variables\11- Bank Account Data\bin\Debug\11- Bank Account Data.pdb
+D:\proeti\2-HomeWork-Primitive Data Types and Variables\11- Bank Account Data\obj\Debug\11- Bank Account Data.exe
+D:\proeti\2-HomeWork-Primitive Data Types and Variables\11- Bank Account Data\obj\Debug\11- Bank Account Data.pdb

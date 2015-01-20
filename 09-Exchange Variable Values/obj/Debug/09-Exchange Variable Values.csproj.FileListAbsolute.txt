@@ -1,0 +1,5 @@
+D:\proeti\2-HomeWork-Primitive Data Types and Variables\09-Exchange Variable Values\bin\Debug\09-Exchange Variable Values.exe.config
+D:\proeti\2-HomeWork-Primitive Data Types and Variables\09-Exchange Variable Values\bin\Debug\09-Exchange Variable Values.exe
+D:\proeti\2-HomeWork-Primitive Data Types and Variables\09-Exchange Variable Values\bin\Debug\09-Exchange Variable Values.pdb
+D:\proeti\2-HomeWork-Primitive Data Types and Variables\09-Exchange Variable Values\obj\Debug\09-Exchange Variable Values.exe
+D:\proeti\2-HomeWork-Primitive Data Types and Variables\09-Exchange Variable Values\obj\Debug\09-Exchange Variable Values.pdb

@@ -1,0 +1,5 @@
+D:\proeti\2-HomeWork-Primitive Data Types and Variables\08- Isosceles Triangle\bin\Debug\08- Isosceles Triangle.exe.config
+D:\proeti\2-HomeWork-Primitive Data Types and Variables\08- Isosceles Triangle\bin\Debug\08- Isosceles Triangle.exe
+D:\proeti\2-HomeWork-Primitive Data Types and Variables\08- Isosceles Triangle\bin\Debug\08- Isosceles Triangle.pdb
+D:\proeti\2-HomeWork-Primitive Data Types and Variables\08- Isosceles Triangle\obj\Debug\08- Isosceles Triangle.exe
+D:\proeti\2-HomeWork-Primitive Data Types and Variables\08- Isosceles Triangle\obj\Debug\08- Isosceles Triangle.pdb

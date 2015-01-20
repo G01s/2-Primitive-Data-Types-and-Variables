@@ -1,0 +1,5 @@
+D:\proeti\2-HomeWork-Primitive Data Types and Variables\07-Quotes in Strings\bin\Debug\07-Quotes in Strings.exe.config
+D:\proeti\2-HomeWork-Primitive Data Types and Variables\07-Quotes in Strings\bin\Debug\07-Quotes in Strings.exe
+D:\proeti\2-HomeWork-Primitive Data Types and Variables\07-Quotes in Strings\bin\Debug\07-Quotes in Strings.pdb
+D:\proeti\2-HomeWork-Primitive Data Types and Variables\07-Quotes in Strings\obj\Debug\07-Quotes in Strings.exe
+D:\proeti\2-HomeWork-Primitive Data Types and Variables\07-Quotes in Strings\obj\Debug\07-Quotes in Strings.pdb

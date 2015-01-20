@@ -1,0 +1,5 @@
+D:\proeti\2-HomeWork-Primitive Data Types and Variables\04-Unicode Character\bin\Debug\04-Unicode Character.exe.config
+D:\proeti\2-HomeWork-Primitive Data Types and Variables\04-Unicode Character\bin\Debug\04-Unicode Character.exe
+D:\proeti\2-HomeWork-Primitive Data Types and Variables\04-Unicode Character\bin\Debug\04-Unicode Character.pdb
+D:\proeti\2-HomeWork-Primitive Data Types and Variables\04-Unicode Character\obj\Debug\04-Unicode Character.exe
+D:\proeti\2-HomeWork-Primitive Data Types and Variables\04-Unicode Character\obj\Debug\04-Unicode Character.pdb

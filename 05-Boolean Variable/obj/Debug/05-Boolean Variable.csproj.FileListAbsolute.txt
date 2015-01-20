@@ -1,0 +1,5 @@
+D:\proeti\2-HomeWork-Primitive Data Types and Variables\05-Boolean Variable\bin\Debug\05-Boolean Variable.exe.config
+D:\proeti\2-HomeWork-Primitive Data Types and Variables\05-Boolean Variable\bin\Debug\05-Boolean Variable.exe
+D:\proeti\2-HomeWork-Primitive Data Types and Variables\05-Boolean Variable\bin\Debug\05-Boolean Variable.pdb
+D:\proeti\2-HomeWork-Primitive Data Types and Variables\05-Boolean Variable\obj\Debug\05-Boolean Variable.exe
+D:\proeti\2-HomeWork-Primitive Data Types and Variables\05-Boolean Variable\obj\Debug\05-Boolean Variable.pdb

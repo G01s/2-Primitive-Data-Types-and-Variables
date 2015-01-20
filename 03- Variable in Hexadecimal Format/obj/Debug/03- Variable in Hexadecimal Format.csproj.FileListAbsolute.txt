@@ -1,0 +1,5 @@
+D:\proeti\2-HomeWork-Primitive Data Types and Variables\03- Variable in Hexadecimal Format\bin\Debug\03- Variable in Hexadecimal Format.exe.config
+D:\proeti\2-HomeWork-Primitive Data Types and Variables\03- Variable in Hexadecimal Format\bin\Debug\03- Variable in Hexadecimal Format.exe
+D:\proeti\2-HomeWork-Primitive Data Types and Variables\03- Variable in Hexadecimal Format\bin\Debug\03- Variable in Hexadecimal Format.pdb
+D:\proeti\2-HomeWork-Primitive Data Types and Variables\03- Variable in Hexadecimal Format\obj\Debug\03- Variable in Hexadecimal Format.exe
+D:\proeti\2-HomeWork-Primitive Data Types and Variables\03- Variable in Hexadecimal Format\obj\Debug\03- Variable in Hexadecimal Format.pdb
